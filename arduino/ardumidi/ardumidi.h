@@ -19,8 +19,9 @@
 #ifndef ardumidi_h
 #define ardumidi_h
 
-#include "WProgram.h"
+#include "Arduino.h"
 
+#define BYTE 1
 // MIDI notes
 #define MIDI_C0            0
 #define MIDI_D0            2
